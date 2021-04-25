@@ -1,6 +1,6 @@
 The app does the following:
 
-- Read a .csv file of names, social security numberas, account type, and initial deposit
+- Read a .csv file of names, social security numbers, account type, and initial deposit
 - Uses a proper data structure to hold all these accounts
 - Both savings and checking accounts share the following properties:
     - deposit()
